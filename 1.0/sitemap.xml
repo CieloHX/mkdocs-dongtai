@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+         <loc>.</loc>
+         <lastmod>2022-02-09</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="zh" href="zh/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="en/"/>
+         
+    </url>
+    <url>
+         <loc>parameter/</loc>
+         <lastmod>2022-02-09</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="zh" href="zh/parameter/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="en/parameter/"/>
+         
+    </url>
+</urlset>
